@@ -1,0 +1,11 @@
+[33mcommit 96c3b6dffc226d7e3165615d89bfbf7f11bfe4f7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: youssefelalfy <yossefelalfy74@gmaol.com>
+Date:   Wed Dec 20 15:20:24 2023 +0200
+
+    + update ic launcher in android and ios
+    + update logo
+    + update splash screen logo
+    + update size of logo
+    + update icons color (yellow)
+    + update primary color (FFC100)
+    + update secondary color(FFF3CD)
